@@ -17,9 +17,18 @@ export const devicesData: DeviceCategory = {
 		{
 			name: "OPPO Reno5 K 5G",
 			image: "/images/device/oppo-reno5k.webp",
-			specs: "骁龙750G | 8GB RAM | 60GB 存储",
+			specs: "骁龙750G | 8GB RAM | 128GB 存储",
 			description: "日常主力机，用于通讯、社交、轻度游戏",
 			link: "https://www.oppo.com/cn/"
+		}
+	],
+	"服务器": [
+		{
+			name: "WMX 服务器",
+			image: "/images/device/server.webp",
+			specs: "AMD Ryzen 9 9950X | 8GB RAM | 60GB 存储",
+			description: "Minecraft 基岩版服务器，网站托管",
+			link: "https://wumingx.top/"
 		}
 	]
 };
