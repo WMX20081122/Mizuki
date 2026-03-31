@@ -287,6 +287,11 @@ export const navBarConfig: NavBarConfig = {
 					name: "Bilibili",
 					url: "https://b23.tv/0JU1mG2",
 					external: true,
+		{
+			name: "GitHub",
+			icon: "fa7-brands:github",
+			url: "https://github.com/WMX20081122",
+		},
 					icon: "fa7-brands:bilibili",
 				},
 			],
@@ -374,6 +379,11 @@ export const profileConfig: ProfileConfig = {
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
 			url: "https://b23.tv/0JU1mG2",
+		},
+		{
+			name: "GitHub",
+			icon: "fa7-brands:github",
+			url: "https://github.com/WMX20081122",
 		},
 	],
 };
