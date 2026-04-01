@@ -126,7 +126,7 @@ export const siteConfig: SiteConfig = {
 		src: {
 			desktop: [
 				"/assets/desktop-banner/1.jpg",
-				"/assets/desktop-banner/2.jpg",
+				"/assets/desktop-banner/banner-2.jpg",
 				"/assets/desktop-banner/3.jpg",
 				"/assets/desktop-banner/4.jpg",
 			], // 桌面横幅图片
@@ -246,7 +246,7 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	src: {
 		desktop: [
 			"/assets/desktop-banner/1.jpg",
-			"/assets/desktop-banner/2.jpg",
+			"/assets/desktop-banner/banner-2.jpg",
 			"/assets/desktop-banner/3.jpg",
 			"/assets/desktop-banner/4.jpg",
 		], // 桌面横幅图片
