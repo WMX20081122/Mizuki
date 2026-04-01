@@ -21,7 +21,7 @@ const localAnimeList: AnimeItem[] = [
 		title: "葬送的芙丽莲",
 		status: "completed",
 		rating: 10,
-		cover: "/assets/anime/frieren.webp",
+		cover: "/assets/anime/frieren.jpg",
 		description: "勇者一行人打倒魔王之后的故事，跨越千年的精灵魔法使芙丽莲的旅途",
 		episodes: "28集",
 		year: "2023",
