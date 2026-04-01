@@ -1,2 +1,21 @@
 * text=auto eol=lf
 *.js linguist-language=astro
+
+# 二进制文件 - 不进行文本转换
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.woff binary
+*.woff2 binary
+*.ttf binary
+*.eot binary
+*.otf binary
+*.mp3 binary
+*.mp4 binary
+*.webm binary
+*.pdf binary
+*.zip binary
+*.gz binary
