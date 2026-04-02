@@ -1,7 +1,4 @@
-* text=auto eol=lf
-*.js linguist-language=astro
-
-# 二进制文件 - 不进行文本转换
+# 二进制文件 - 必须放在最前面
 *.jpg binary
 *.jpeg binary
 *.png binary
@@ -19,3 +16,7 @@
 *.pdf binary
 *.zip binary
 *.gz binary
+
+# 文本文件
+* text=auto eol=lf
+*.js linguist-language=astro
